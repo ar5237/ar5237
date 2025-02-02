@@ -1,7 +1,5 @@
 # 🚀 **Abhay Raj** | AI & ML Enthusiast | Backend Developer  
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,artificial-intelligence,coding)  
-
 > "Passionate about AI & ML, Backend Development, and Open-Source Contribution."  
 
 ### **Hey there!** 👋  
@@ -32,7 +30,6 @@ I'm **Abhay Raj**, a tech enthusiast specializing in **Artificial Intelligence, 
 ### **🛢️ Databases & Platforms**  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ### **⚙️ Development Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -76,13 +73,6 @@ _A Java-based banking system with a GUI for seamless transactions._
 
 ---
 
-## 📊 **GitHub Stats & Activity**  
-
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar5237&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ar5237&layout=compact&theme=radical)  
-
----
-
 ## 📬 **Let's Connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-raj-8ab095216/)  
@@ -91,4 +81,4 @@ _A Java-based banking system with a GUI for seamless transactions._
 
 ---
 
-🚀 *"Passionate about solving problems, building smart applications, and pushing the boundaries of technology!"*  
+🚀 *"Passionate about solving problems, building smart applications, and pushing the boundaries of technology!"*
